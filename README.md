@@ -2,7 +2,7 @@
 <i>❝“The difference between theory and practice is that in theory, there is no difference between theory and practice.”— Richard Moore   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-## 👋 Hi there, I'm Amine Berbagui
+## 👋 Hi there, I'm Amine Berbagui     [![GitHub ](https://img.shields.io/github/followers/amine695?label=follow&style=social)](https://github.com/Amine695)
 
 <p align="center">
     <a target="_blank" href="https://www.linkedin.com/in/amine-berbagui/">
@@ -19,6 +19,8 @@
 - 🎓 My school - [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr)
 - 🔎 Currently looking for an internship of 2 months this summer in a tech company ! 
 - 🥅 2022 goals : learn new programming languages ! 
+
+
 
 
 ### 🌐 Programming languages
@@ -56,3 +58,8 @@
     <img alt="StackOverFlow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 
 </p>
+
+
+---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
