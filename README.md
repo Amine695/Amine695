@@ -1,3 +1,7 @@
+<!--STARTS_HERE_QUOTE_README-->
+<i>❝“The difference between theory and practice is that in theory, there is no difference between theory and practice.”— Richard Moore   ❞</i>
+<!--ENDS_HERE_QUOTE_README-->
+
 ## 👋 Hi there, I'm Amine Berbagui
 
 <p align="center">
@@ -8,10 +12,6 @@
         <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
     </a>
 </p>
-
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝“The difference between theory and practice is that in theory, there is no difference between theory and practice.”— Richard Moore   ❞</i>
-<!--ENDS_HERE_QUOTE_README-->
 
 
 ### I'm 21, currently studying [applied mathematics and CS](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) in a graduate engineering school in Paris !
