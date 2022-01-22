@@ -18,7 +18,8 @@
 
 - 🎓 My college - [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr)
 - 🔎 Currently looking for an internship of 2 months this summer in a tech company ! 
-- 🥅 2022 goals : learn new programming languages ! 
+- 🥅 2022 goals : contribute to some open-source projects ! 
+- ⚽ Found some time to play football !
 
 
 
