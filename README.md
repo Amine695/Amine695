@@ -16,7 +16,7 @@
 
 ### I'm 21, currently studying [applied mathematics and CS](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) in a graduate engineering school in Paris !
 
-- 🎓 My school - [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr)
+- 🎓 My college - [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr)
 - 🔎 Currently looking for an internship of 2 months this summer in a tech company ! 
 - 🥅 2022 goals : learn new programming languages ! 
 
@@ -45,7 +45,7 @@
   
 </p>
 
-### 🛠️ Tools
+### 🛠️ My Tools 
 
 <p align="center">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
