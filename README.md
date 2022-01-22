@@ -16,10 +16,10 @@
 
 ### I'm 21, currently studying [applied mathematics and CS](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) in a graduate engineering school in Paris !
 
-- 🎓 My college - [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr)
+- 🎓 My school - [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr)
 - 🔎 Currently looking for an internship of 2 months this summer in a tech company ! 
-- 🥅 2022 goals : contribute to some open-source projects ! 
-- ⚽ Found some time to play football !
+- 🥅 2022 goals : take a semester abroad ! 
+- ⚽ Take back football !
 
 
 
