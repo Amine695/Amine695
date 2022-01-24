@@ -63,5 +63,8 @@
 <!--  [![Amine's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amine)](https://github.com/Amine695/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
+```text
+C++   1 hr 14 mins    █████████████████████████   100.00 % 
+```
 <!--END_SECTION:waka-->
 
