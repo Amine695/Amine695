@@ -63,7 +63,6 @@
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-909%20Thousand%20lines%20of%20code-blue)
 ```text
 C++   1 hr 14 mins    █████████████████████████   100.00 % 
 ```
