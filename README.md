@@ -60,7 +60,7 @@
 </p>
 
 
-<!--  [![Amine's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amine)](https://github.com/Amine695/github-readme-stats) -->
+[![Amine's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amine)](https://github.com/Amine695/github-readme-stats)
 
 ### 📊 Weekly development breakdown 
 <!--START_SECTION:waka-->
