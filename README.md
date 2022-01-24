@@ -60,12 +60,20 @@
 </p>
 
 
-[![Amine's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amine)](https://github.com/Amine695/github-readme-stats)
 
-### 📊 Weekly development breakdown 
+### 📊 My stats
 <!--START_SECTION:waka-->
 ```text
 C++   1 hr 14 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
+
+<p align = "center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Amine695&hide=prs,issues,contribs&include_all_commits=true&show_icons=true&theme=aura" alt="Amine's github stats" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amine695&layout=compact&theme=aura" />
+</p>
+    
+
+
 
