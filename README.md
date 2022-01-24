@@ -24,7 +24,7 @@
 
 
 
-### 🌐 Programming languages
+### 💻 **Programming languages**
 
 <p align="center">
     <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -34,7 +34,7 @@
     <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
 
-### 📚 Frameworks and libraries
+### 📚 **Data science**
 
 <p align="center">
     <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -46,7 +46,7 @@
   
 </p>
 
-### 🛠️ My Tools 
+### 🛠️ **My Tools** 
 
 <p align="center">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
