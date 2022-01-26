@@ -34,7 +34,7 @@
     <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
 
-### 📚 **Data science**
+### 📚 **Data science frameworks**
 
 <p align="center">
     <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
