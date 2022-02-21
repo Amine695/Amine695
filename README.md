@@ -19,7 +19,7 @@
 - 🎓 My school - [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr)
 - 🔎 Currently looking for an internship of 2 months this summer in a tech company ! 
 - 🥅 2022 goals : take a semester abroad ! 
-- Be more skilled in data science/AI
+- 💻 Be more skilled in data science/AI
 
 
 
