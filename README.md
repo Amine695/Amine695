@@ -62,7 +62,7 @@
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15%20Thousand%20lines%20of%20code-blue)
 
@@ -107,18 +107,16 @@ Sunday       23 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   19 hrs 12 mins      ████████████████████████░   98.63% 
-Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85% 
-C                        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+Python                   1 hr 55 mins        ███████████████████████░░   94.59% 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.41%
 
 💻 Operating System: 
-Windows                  19 hrs 28 mins      █████████████████████████   100.0%
+Windows                  2 hrs 2 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 12/03/2022 04:13:26 UTC
+ Last Updated on 18/03/2022 04:21:46 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
