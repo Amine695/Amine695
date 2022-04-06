@@ -61,6 +61,7 @@
 ### 🚀 My Projects
 
  * [Ecosystem simulator](https://github.com/Amine695/Ecosystem_simulator) - A C++ game simulating an ecosystem using SFML
+ * [Metro Project](https://github.com/Amine695/Metro) - A C program simulating the Paris metro network using the Dijkstra's algorithm
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
