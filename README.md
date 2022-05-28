@@ -73,6 +73,8 @@
 
 **🐱 My GitHub Data** 
 
+> 🏆 93 Contributions in the Year 2022
+ > 
 > 📦 53.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -110,15 +112,17 @@ Sunday       29 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        18 mins             ████████████████████████░   96.36% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  19 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 27/05/2022 04:25:41 UTC
+ Last Updated on 28/05/2022 04:14:56 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
