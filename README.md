@@ -1,5 +1,5 @@
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The best way to get accurate information on Usenet is to post something wrong and wait for corrections.”— Matthew Austern   ❞</i>
+<i>❝There are around  3.58 billion internet users worldwide as of 2017 according to statista.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ## 👋 Hi there, I'm Amine Berbagui     [![GitHub ](https://img.shields.io/github/followers/amine695?label=follow&style=social)](https://github.com/Amine695)
