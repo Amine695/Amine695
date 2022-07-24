@@ -112,15 +112,15 @@ Sunday       29 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C++                      0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 23/07/2022 04:27:11 UTC
+ Last Updated on 24/07/2022 04:27:55 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
