@@ -65,7 +65,7 @@
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -112,15 +112,16 @@ Sunday       29 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 1 min          ████████████████████████░   99.48% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 1 min          █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 29/07/2022 04:42:18 UTC
+ Last Updated on 07/08/2022 04:18:41 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
