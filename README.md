@@ -65,9 +65,9 @@
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38%20Thousand%20lines%20of%20code-blue)
 
@@ -75,7 +75,7 @@
 
 > 🏆 93 Contributions in the Year 2022
  > 
-> 📦 54.6 kB Used in GitHub's Storage 
+> 📦 54.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -112,16 +112,15 @@ Sunday       29 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Java                     1 hr 1 min          ████████████████████████░   99.48% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 1 min          █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 07/08/2022 04:18:41 UTC
+ Last Updated on 10/08/2022 04:14:33 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
