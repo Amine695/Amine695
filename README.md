@@ -112,15 +112,15 @@ Sunday       29 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        20 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  20 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 14/08/2022 04:22:33 UTC
+ Last Updated on 17/08/2022 05:03:02 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
