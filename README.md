@@ -1,5 +1,5 @@
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Only about 10% of the world’s currency is physical money, the rest only exists on computers.❞</i>
+<i>❝CAPTCHA is an acronym for “Completely Automated Public Turing test to tell Computers and Humans Apart”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ## 👋 Hi there, I'm Amine Berbagui     [![GitHub ](https://img.shields.io/github/followers/amine695?label=follow&style=social)](https://github.com/Amine695)
