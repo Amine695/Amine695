@@ -65,7 +65,7 @@
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -120,7 +120,7 @@ Windows                  20 mins             ███████████�
 ```
 
 
- Last Updated on 17/08/2022 05:03:02 UTC
+ Last Updated on 18/08/2022 04:59:33 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
