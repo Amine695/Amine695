@@ -65,7 +65,7 @@
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -75,7 +75,7 @@
 
 > 🏆 93 Contributions in the Year 2022
  > 
-> 📦 54.5 kB Used in GitHub's Storage 
+> 📦 54.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -120,7 +120,7 @@ Windows                  20 mins             ███████████�
 ```
 
 
- Last Updated on 18/08/2022 04:59:33 UTC
+ Last Updated on 19/08/2022 04:44:16 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
