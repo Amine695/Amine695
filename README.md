@@ -65,7 +65,7 @@
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -125,7 +125,7 @@ Linux                    50 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 12/10/2022 05:03:11 UTC
+ Last Updated on 13/10/2022 05:20:32 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
