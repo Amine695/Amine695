@@ -115,13 +115,16 @@ You want to get in touch with me ?
 ### 🚀 My Projects
 
 
-#### 4th year
- * [Industrial project ](https://github.com/Amine695/TimeSeriesProject) - Study of time series for various datasets families and application of machine learning models to make forecasting on our data
- * [Data Analysis Project](https://github.com/Amine695/DataAnalysisProject) - A R project about classification, clustering, regression, forecasting, Decision tree learning, PCA and more !
+ * [Industrial Project ](https://github.com/Amine695/TimeSeriesProject) - Study of time series for various datasets families and application of machine learning models to make forecasting on our data. Made in collaboration with [Capgemini](https://www.capgemini.com/ca-en/)
+ * [Data Analysis Project](https://github.com/Amine695/DataAnalysisProject) - A R project about classification, clustering, regression, forecasting and more !
  * [Algorithmic Project](https://github.com/Amine695/LinearAlgebra) - C project with the implementations of several algebraic algorithmic methods
+ * [Mathematics Project](https://github.com/Amine695/FFTProject) - FFT's algorithm (Fast Fourier Transform) & rapid arithmetic : Strassen,
+Karatsuba.
  * [HPC Project](https://github.com/Amine695/Projet-HPC) - C project to parallelize the Block-Lanczos algorithm using MPI and OpenMP
- * [Ecosystem simulator](https://github.com/Amine695/Ecosystem_simulator) - A C++ game simulating an ecosystem using SFML
-#### 3rd year
+ * [Ecosystem simulator Project](https://github.com/Amine695/Ecosystem_simulator) - A C++ game simulating an ecosystem using SFML
+ * [Machine Learning project](https://github.com/Amine695/MLProject) - Study of the popularity of musics with a Spotify database using machine learning models.
+ * [OS Project](https://github.com/Amine695/SherlockProject) - Sherlock 13 multi-players's game programming: network part (TCP servers, sockets),UML diagram, GUI (SDL)
+ * [Library Project](https://github.com/Amine695/FixedPointLibrary) - Explicit Fixed-Point arithmetic Python library
  * [Metro Project](https://github.com/Amine695/Metro) - A C program simulating the Paris metro network using the Dijkstra's algorithm
 
 ### 📊 WakaTime stats
