@@ -116,6 +116,10 @@ You want to get in touch with me ?
 
 
 #### 4th year
+ * [Industrial project ](https://github.com/Amine695/TimeSeriesProject) - Study of time series for various datasets families and application of machine learning models to make forecasting on our data
+ * [Data Analysis Project](https://github.com/Amine695/DataAnalysisProject) - A R project about classification, clustering, regression, forecasting, Decision tree learning, PCA and more !
+ * [Algorithmic Project](https://github.com/Amine695/LinearAlgebra) - C project with the implementations of several algebraic algorithmic methods
+ * [HPC Project](https://github.com/Amine695/Projet-HPC) - C project to parallelize the Block-Lanczos algorithm using MPI and OpenMP
  * [Ecosystem simulator](https://github.com/Amine695/Ecosystem_simulator) - A C++ game simulating an ecosystem using SFML
 #### 3rd year
  * [Metro Project](https://github.com/Amine695/Metro) - A C program simulating the Paris metro network using the Dijkstra's algorithm
