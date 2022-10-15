@@ -19,7 +19,7 @@ You want to get in touch with me ?
 - 🎓 My school - [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr)
 - ✈️ Currently at [Laval university](https://www.ulaval.ca/) for my exchange semester ! 
 - 🥅 Goal : Discover a new culture !
-- 💻 Personal : Get deeper into Data Science/AI
+- 💪🏻 Personal : Get deeper into Data Science/AI
 
 
 ### 💻 **Programming languages**
@@ -114,7 +114,10 @@ You want to get in touch with me ?
 
 ### 🚀 My Projects
 
+
+#### 4th year
  * [Ecosystem simulator](https://github.com/Amine695/Ecosystem_simulator) - A C++ game simulating an ecosystem using SFML
+#### 3rd year
  * [Metro Project](https://github.com/Amine695/Metro) - A C program simulating the Paris metro network using the Dijkstra's algorithm
 
 ### 📊 WakaTime stats
