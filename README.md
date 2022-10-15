@@ -3,7 +3,7 @@
 <!--ENDS_HERE_QUOTE_README-->
 
 ## 👋 Hi there, I'm Amine Berbagui     [![GitHub ](https://img.shields.io/github/followers/amine695?label=follow&style=social)](https://github.com/Amine695)
-
+You want to get in touch with me ?
 <p align="center">
     <a target="_blank" href="https://www.linkedin.com/in/amine-berbagui/">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -18,10 +18,8 @@
 
 - 🎓 My school - [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr)
 - ✈️ Currently at [Laval university](https://www.ulaval.ca/) for my exchange semester ! 
-- 🥅 Goals : meet new people & discover the Canada
-- 💻 Get deeper into data science/AI
-
-
+- 🥅 Goal : Discover a new culture !
+- 💻 Personal : Get deeper into Data Science/AI
 
 
 ### 💻 **Programming languages**
@@ -32,6 +30,7 @@
     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
     <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
 
 ### 📚 **Data science frameworks**
