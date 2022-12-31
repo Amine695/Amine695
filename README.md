@@ -139,7 +139,7 @@ Karatsuba.
 
 > 🏆 169 Contributions in the Year 2022
  > 
-> 📦 410.5 kB Used in GitHub's Storage 
+> 📦 410.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -176,16 +176,15 @@ Sunday       31 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   3 mins              ███████████████████████░░   94.65% 
-C++                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.35%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 30/12/2022 04:13:13 UTC
+ Last Updated on 31/12/2022 04:12:00 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
