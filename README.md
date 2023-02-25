@@ -129,7 +129,7 @@ Karatsuba.
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -185,7 +185,7 @@ Windows                  2 hrs 2 mins        ███████████�
 ```
 
 
- Last Updated on 24/02/2023 04:10:26 UTC
+ Last Updated on 25/02/2023 04:09:47 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
