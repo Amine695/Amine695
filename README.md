@@ -129,7 +129,7 @@ Karatsuba.
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -174,17 +174,14 @@ Sunday                   33 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   2 hrs 17 mins       ███████████████████░░░░░░   76.56 % 
-HTML                     29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-JavaScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Python                   2 hrs 17 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs               █████████████████████████   100.00 % 
+Windows                  2 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/03/2023 04:10:10 UTC
+ Last Updated on 14/03/2023 04:10:00 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
