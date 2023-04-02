@@ -17,9 +17,9 @@ You want to get in touch with me ?
 ### I'm 21, currently studying [applied mathematics and CS](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) in a graduate engineering school in Paris !
 
 - 🎓 My school - [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr)
-- ✈️ Currently at [Laval university](https://www.ulaval.ca/) for my exchange semester ! 
-- 🥅 Goal : Discover a new culture !
-- 💪🏻 Personal : Get deeper into Data Science/AI
+- ✈️ Coming back from my exchange semester at the [Laval university](https://www.ulaval.ca/)  ! 
+- 💪🏻 Always focus on new projects ! 
+- 🎯 Goal : Get deeper into Data Science/AI
 
 
 ### 💻 **Programming languages**
