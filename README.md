@@ -14,7 +14,7 @@ You want to get in touch with me ?
 </p>
 
 
-### I'm 21, currently studying [applied mathematics and CS](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) in a graduate engineering school in Paris !
+### I'm a 22 years old engineering student, specialized in [applied mathematics and CS](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) !
 
 - 🎓 My school - [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr)
 - ✈️ Coming back from my exchange semester at the [Laval university](https://www.ulaval.ca/)  ! 
