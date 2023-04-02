@@ -1,5 +1,5 @@
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure.  Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.”— Nathaniel S. Borenstein   ❞</i>
+<i>❝“If you think technology can solve your security problems, then you don’t understand the problems and you don’t understand the technology.”— Bruce Schneier  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ## 👋 Hi there, I'm Amine Berbagui     [![GitHub ](https://img.shields.io/github/followers/amine695?label=follow&style=social)](https://github.com/Amine695)
@@ -129,67 +129,64 @@ Karatsuba.
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-848.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 94 Contributions in the Year 2022
+> 📦 410.6 kB Used in GitHub's Storage 
  > 
-> 📦 54.7 kB Used in GitHub's Storage 
+> 🏆 0 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 13 Public Repositories 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    80 commits     ██████████░░░░░░░░░░░░░░░   40.82% 
-🌆 Daytime    44 commits     █████░░░░░░░░░░░░░░░░░░░░   22.45% 
-🌃 Evening    63 commits     ████████░░░░░░░░░░░░░░░░░   32.14% 
-🌙 Night      9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.59%
-
+🌞 Morning                16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+🌆 Daytime                88 commits          ████████░░░░░░░░░░░░░░░░░   33.59 % 
+🌃 Evening                89 commits          ████████░░░░░░░░░░░░░░░░░   33.97 % 
+🌙 Night                  69 commits          ███████░░░░░░░░░░░░░░░░░░   26.34 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       39 commits     █████░░░░░░░░░░░░░░░░░░░░   19.9% 
-Tuesday      27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.78% 
-Wednesday    37 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.88% 
-Thursday     12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.12% 
-Friday       27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.78% 
-Saturday     21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
-Sunday       33 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.84%
-
+Monday                   55 commits          █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Tuesday                  27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Wednesday                39 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Thursday                 17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Friday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Saturday                 71 commits          ███████░░░░░░░░░░░░░░░░░░   27.10 % 
+Sunday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/New_York
+🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Python                   15 hrs 47 mins      ███████████████████████░░   95.33% 
-YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.73% 
-JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.33% 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66% 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
+JavaScript               14 hrs 9 mins       ██████████████████████░░░   89.19 % 
+Python                   1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Windows                  15 hrs 43 mins      ███████████████████████░░   94.93% 
-Linux                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.07%
-
+Mac                      9 hrs 27 mins       ███████████████░░░░░░░░░░   59.58 % 
+Windows                  6 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   40.42 % 
 ```
 
 
- Last Updated on 15/10/2022 05:12:57 UTC
+ Last Updated on 02/04/2023 04:08:46 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
