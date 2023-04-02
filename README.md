@@ -192,7 +192,7 @@ Windows                  6 hrs 24 mins       ██████████░�
 <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api?username=Amine695&hide=prs,issues,contribs&include_all_commits=true&show_icons=true&theme=aura" alt="Amine's github stats" />
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amine695&layout=compact&theme=aura" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amine695&layout=compact&theme=blue-green" />
 </p>
     
 
