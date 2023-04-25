@@ -1,5 +1,5 @@
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝When you’re all grown up and working and you use a computer each day, your hands would have traveled 12.6 miles (about 20km) per day!❞</i>
+<i>❝In 1833, Charles Babbage invented all the parts a modern computer uses, but it wasn’t until 120 years later that the first modern computers were invented.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ## 👋 Hi there, I'm Amine Berbagui     [![GitHub ](https://img.shields.io/github/followers/amine695?label=follow&style=social)](https://github.com/Amine695)
