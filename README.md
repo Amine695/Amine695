@@ -1,5 +1,5 @@
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I didn’t work hard to make Ruby perfect for everyone, because you feel differently from me.  No language can be perfect for everyone.  I tried to make Ruby perfect for me, but maybe it’s not perfect for you.  The perfect language for Guido van Rossum is probably Python.”— Yukihiro Matsumoto, aka “Matz”, creator of Ruby   ❞</i>
+<i>❝Konrad Zuse is the inventor of the first programmable computer in the world. He did it in 1936 and named the computer as Z1. Konrad Zuse❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ## 👋 Hi there, I'm Amine Berbagui     [![GitHub ](https://img.shields.io/github/followers/amine695?label=follow&style=social)](https://github.com/Amine695)
