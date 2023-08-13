@@ -129,7 +129,7 @@ Karatsuba.
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -185,7 +185,7 @@ Mac                      12 hrs 43 mins      ███████████�
 ```
 
 
- Last Updated on 12/08/2023 04:08:23 UTC
+ Last Updated on 13/08/2023 04:08:24 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
