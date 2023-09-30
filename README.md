@@ -17,9 +17,9 @@ You want to get in touch with me ?
 ### I'm a 22 years old engineering student, specialized in [applied mathematics and CS](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) !
 
 - 🎓 My school - [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr)
-- ✈️ Coming back from my exchange semester at the [Laval university](https://www.ulaval.ca/)  ! 
-- 💪🏻 Always focus on new projects ! 
-- 🎯 Goal : Get deeper into Data Science/AI
+- ✈️ Went to Canada for my exchange semester at the [Laval university](https://www.ulaval.ca/)  ! 
+- 💪🏻 Finally got my Master's degree ! 
+- 🎯 Now ? Looking for an entry-level Data Scientist position and get deeper into Data Science/AI
 
 
 ### 💻 **Programming languages**
