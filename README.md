@@ -174,14 +174,15 @@ Sunday                   34 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   51 mins             █████████████████████████   99.23 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  51 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/11/2023 04:09:25 UTC
+ Last Updated on 22/11/2023 04:10:03 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
