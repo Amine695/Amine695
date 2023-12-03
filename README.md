@@ -129,8 +129,6 @@ Karatsuba.
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-540%20hrs%2038%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-848.6%20thousand%20lines%20of%20code-blue)
@@ -147,41 +145,8 @@ Karatsuba.
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-🌆 Daytime                90 commits          ████████░░░░░░░░░░░░░░░░░   33.71 % 
-🌃 Evening                92 commits          █████████░░░░░░░░░░░░░░░░   34.46 % 
-🌙 Night                  69 commits          ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   55 commits          █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-Tuesday                  27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Wednesday                39 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Thursday                 17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-Friday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Saturday                 72 commits          ███████░░░░░░░░░░░░░░░░░░   26.97 % 
-Sunday                   34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Amsterdam
-
-💬 Programming Languages: 
-Python                   27 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  27 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 02/12/2023 04:09:34 UTC
+ Last Updated on 03/12/2023 04:09:35 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
