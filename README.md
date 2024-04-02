@@ -129,6 +129,8 @@ Karatsuba.
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-544%20hrs%2022%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-848.6%20thousand%20lines%20of%20code-blue)
@@ -189,7 +191,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2024 14:53:36 UTC
+ Last Updated on 02/04/2024 04:10:04 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
