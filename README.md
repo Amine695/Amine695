@@ -137,7 +137,9 @@ Karatsuba.
 
 **🐱 My GitHub Data** 
 
-> 📦 411.0 kB Used in GitHub's Storage 
+> 📦 411.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 1 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -172,10 +174,11 @@ Sunday                   34 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Python                   27 mins             █████████████████████████   100.00 % 
+Python                   2 hrs 29 mins       █████████████████████████   99.21 % 
+Sublime Text Config      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 💻 Operating System: 
-Windows                  27 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -191,7 +194,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/04/2024 04:10:10 UTC
+ Last Updated on 23/04/2024 04:09:55 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
