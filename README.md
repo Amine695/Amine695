@@ -129,17 +129,15 @@ Karatsuba.
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-556%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-556%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-848.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 411.1 kB Used in GitHub's Storage 
- > 
-> 🏆 1 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -174,11 +172,11 @@ Sunday                   34 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Python                   6 hrs 53 mins       █████████████████████████   99.71 % 
-Sublime Text Config      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Python                   7 hrs 11 mins       █████████████████████████   99.72 % 
+Sublime Text Config      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Windows                  6 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -194,7 +192,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/04/2024 04:09:49 UTC
+ Last Updated on 27/04/2024 04:09:35 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
