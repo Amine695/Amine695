@@ -144,7 +144,7 @@
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-713%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-713%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -209,7 +209,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/12/2024 04:13:44 UTC
+ Last Updated on 14/12/2024 04:13:13 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
