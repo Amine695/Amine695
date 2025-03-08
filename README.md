@@ -144,7 +144,7 @@
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-716%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-716%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -189,12 +189,10 @@ Sunday                   35 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-CSV                      6 mins              ████████████████████░░░░░   78.99 % 
-SSH Config               1 min               █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+SSH Config               1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -210,7 +208,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/03/2025 04:13:38 UTC
+ Last Updated on 08/03/2025 04:10:56 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
