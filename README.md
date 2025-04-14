@@ -20,20 +20,17 @@
 
 
 ## 📰 Headlines 
-- 🏢 Currently working at the [Heritage Sciences Foundation](https://www.sciences-patrimoine.org/) 
+- 🏢 Currently working at the [Heritage Sciences Foundation](https://www.sciences-patrimoine.org/) as a Data Scientist
 - 🎓 Education : MSc in Applied Mathematics & Computer Science at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr)
-- 🧠 Specialization in Data Science and AI at the [Laval university](https://www.ulaval.ca/) 
+- 🧠 Specialization in Data Science and databases at the [Laval university](https://www.ulaval.ca/) 
 
 ## 🚀 My Projects
 
 * 🌐 Machine/Deep Learning :
     - [Transformers](https://github.com/Amine695/TimeSeriesProject) - Study of time series with complex models to make forecasting on our data (with Capgemini)
     - [Spotify](https://github.com/Amine695/MLProject) - Study of the popularity of musics with a Spotify database using machine learning models.
-
-
-* ⚙️ Data Science :
     - [Data Analysis Project](https://github.com/Amine695/DataAnalysisProject) - A R project about classification, clustering, regression, forecasting and more !
-
+    - [Datagotchi project](https://github.com/Amine695/datagotchi) - Web Application whose aim is to predict the intentions of votes based on lifestyle using ML models
 
 * ⚡ High Performance Computing :
     - [HPC Project](https://github.com/Amine695/Projet-HPC) - C project to parallelize the Block-Lanczos algorithm using MPI and OpenMP
@@ -85,7 +82,6 @@
 
 <p >
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
     <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
     <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -111,15 +107,6 @@
 
 </p> -->
 
-### 📖 Coding Skills
-<p>
-    <img alt="CodeAcademy"  src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A"/>
-    <img alt="Datacamp"  src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860"/>
-    <img alt="Exercism"  src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white"/>
-    <img alt="Freecodecamp"  src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/>
-    <img alt="GeeksforGeeks"  src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"/>
-
-</p>
 
 ### 🛠️ Tools 
 
