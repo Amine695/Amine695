@@ -139,7 +139,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 412.0 kB Used in GitHub's Storage 
+> 📦 411.9 kB Used in GitHub's Storage 
  > 
 > 🏆 1 Contributions in the Year 2025
  > 
@@ -176,11 +176,10 @@ Sunday                   35 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Python                   2 mins              ████████████████████████░   97.82 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -196,7 +195,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2025 04:16:29 UTC
+ Last Updated on 31/05/2025 04:15:30 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
