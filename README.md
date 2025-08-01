@@ -131,13 +131,15 @@
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-751%20hrs%2039%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-848.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 412.0 kB Used in GitHub's Storage 
+> 📦 412.1 kB Used in GitHub's Storage 
  > 
 > 🏆 1 Contributions in the Year 2025
  > 
@@ -174,14 +176,12 @@ Sunday                   35 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Python                   2 hrs 26 mins       ███████████████████░░░░░░   75.48 % 
-JSON                     46 mins             ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Python                   2 hrs 15 mins       ███████████████████░░░░░░   74.69 % 
+JSON                     46 mins             ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
 
 💻 Operating System: 
-Linux                    2 hrs 47 mins       ██████████████████████░░░   86.20 % 
-Mac                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Linux                    2 hrs 42 mins       ██████████████████████░░░   89.46 % 
+Mac                      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
 ```
 
 **I Mostly Code in C** 
@@ -197,7 +197,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2025 04:34:23 UTC
+ Last Updated on 01/08/2025 04:46:49 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
