@@ -131,7 +131,7 @@
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-849%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-849%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -139,7 +139,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 412.2 kB Used in GitHub's Storage 
+> 📦 412.3 kB Used in GitHub's Storage 
  > 
 > 🏆 1 Contributions in the Year 2025
  > 
@@ -176,11 +176,12 @@ Sunday                   35 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Other                    31 mins             ████████████████████████░   95.72 % 
-Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Other                    26 mins             ███████████████████░░░░░░   75.56 % 
+Python                   8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
 
 💻 Operating System: 
-Mac                      32 mins             █████████████████████████   100.00 % 
+Mac                      28 mins             ████████████████████░░░░░   79.54 % 
+Linux                    7 mins              █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
 ```
 
 **I Mostly Code in C** 
@@ -196,7 +197,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2025 04:16:08 UTC
+ Last Updated on 20/11/2025 04:14:52 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
