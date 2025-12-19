@@ -176,10 +176,10 @@ Sunday                   35 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   49 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    49 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -195,7 +195,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/12/2025 04:26:45 UTC
+ Last Updated on 19/12/2025 04:27:27 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
