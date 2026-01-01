@@ -139,9 +139,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 413.9 kB Used in GitHub's Storage 
+> 📦 414.2 kB Used in GitHub's Storage 
  > 
-> 🏆 6 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -176,10 +176,10 @@ Sunday                   38 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Liquid                   13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -195,7 +195,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 04:31:37 UTC
+ Last Updated on 01/01/2026 04:40:45 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
