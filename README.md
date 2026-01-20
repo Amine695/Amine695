@@ -139,7 +139,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 413.5 kB Used in GitHub's Storage 
+> 📦 413.6 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -176,10 +176,13 @@ Sunday                   38 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               52 mins             █████████████████████░░░░   85.72 % 
+Python                   8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      52 mins             █████████████████████░░░░   85.72 % 
+Linux                    8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
 ```
 
 **I Mostly Code in C** 
@@ -195,7 +198,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/01/2026 04:43:55 UTC
+ Last Updated on 20/01/2026 04:37:46 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
