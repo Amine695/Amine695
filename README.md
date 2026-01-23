@@ -133,7 +133,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-860%20hrs%2036%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.01%20million%20lines%20of%20code-blue?style=flat)
 
@@ -176,14 +176,14 @@ Sunday                   38 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               2 hrs 14 mins       █████████████████████░░░░   85.71 % 
-Python                   19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+TypeScript               2 hrs 14 mins       █████████████████████░░░░   84.98 % 
+Python                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Mac                      2 hrs 17 mins       ██████████████████████░░░   87.55 % 
-Linux                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Mac                      2 hrs 17 mins       ██████████████████████░░░   86.80 % 
+Linux                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
 ```
 
 **I Mostly Code in C** 
@@ -199,7 +199,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/01/2026 04:40:39 UTC
+ Last Updated on 23/01/2026 04:35:18 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
