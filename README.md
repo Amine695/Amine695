@@ -131,7 +131,7 @@
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-885%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-886%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -176,12 +176,12 @@ Sunday                   38 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Python                   12 hrs 20 mins      █████████████████████████   98.29 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Python                   13 hrs 54 mins      █████████████████████████   98.10 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Linux                    12 hrs 33 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -197,7 +197,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/02/2026 05:00:43 UTC
+ Last Updated on 08/02/2026 05:20:15 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
