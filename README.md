@@ -1,5 +1,5 @@
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I do not fear computers. I fear lack of them.”— Isaac Asimov  ❞</i>
+<i>❝“Before man reaches the moon, mail will be delivered within hours from New York to California, to Britain, to India or Australia.”— Arthur Summerfield, 1959, United States Post❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ## 👋 Hi there, I'm Amine Berbagui     
