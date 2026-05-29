@@ -131,7 +131,7 @@
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-967%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-971%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -139,7 +139,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 413.7 kB Used in GitHub's Storage 
+> 📦 413.8 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -149,39 +149,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-🌆 Daytime                93 commits          ████████░░░░░░░░░░░░░░░░░   33.21 % 
-🌃 Evening                102 commits         █████████░░░░░░░░░░░░░░░░   36.43 % 
-🌙 Night                  69 commits          ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   58 commits          █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-Tuesday                  27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Wednesday                45 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Thursday                 17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-Friday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Saturday                 72 commits          ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
-Sunday                   38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Amsterdam
-
-💬 Programming Languages: 
-Python                   11 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    11 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C** 
 
 ```text
@@ -195,7 +162,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2026 07:47:45 UTC
+ Last Updated on 29/05/2026 07:45:48 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
