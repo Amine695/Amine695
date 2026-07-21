@@ -176,12 +176,10 @@ Sunday                   38 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Bash                     18 mins             █████████████░░░░░░░░░░░░   50.15 % 
-Python                   17 mins             ████████████░░░░░░░░░░░░░   49.09 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -197,7 +195,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/07/2026 06:38:25 UTC
+ Last Updated on 21/07/2026 06:21:46 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
