@@ -151,6 +151,47 @@
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+🌆 Daytime                93 commits          ████████░░░░░░░░░░░░░░░░░   33.21 % 
+🌃 Evening                102 commits         █████████░░░░░░░░░░░░░░░░   36.43 % 
+🌙 Night                  69 commits          ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   58 commits          █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+Tuesday                  27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Wednesday                45 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Thursday                 17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Friday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Saturday                 72 commits          ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+Sunday                   38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Amsterdam
+
+💬 Programming Languages: 
+TypeScript               16 mins             █████████████████████████   99.15 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+
+💻 Operating System: 
+Linux                    16 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -164,7 +205,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 06:18:18 UTC
+ Last Updated on 29/07/2026 06:24:05 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
