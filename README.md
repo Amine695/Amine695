@@ -131,10 +131,6 @@
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-996%20hrs%204%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2048%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.01%20million%20lines%20of%20code-blue?style=flat)
@@ -151,48 +147,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-🌆 Daytime                93 commits          ████████░░░░░░░░░░░░░░░░░   33.21 % 
-🌃 Evening                102 commits         █████████░░░░░░░░░░░░░░░░   36.43 % 
-🌙 Night                  69 commits          ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   58 commits          █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-Tuesday                  27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Wednesday                45 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Thursday                 17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-Friday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Saturday                 72 commits          ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
-Sunday                   38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Amsterdam
-
-💬 Programming Languages: 
-TypeScript               1 hr 4 mins         ███████████████████████░░   92.39 % 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-
-💻 Operating System: 
-Linux                    1 hr 10 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in C** 
 
 ```text
@@ -206,7 +160,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 06:22:15 UTC
+ Last Updated on 07/08/2026 05:27:35 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
