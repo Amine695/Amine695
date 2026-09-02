@@ -1,5 +1,5 @@
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The original Halo was 3rd person and designed for Mac. In 2000 Microsoft bought Bungie and made it an exclusive for the original Xbox.❞</i>
+<i>❝“Before software should be reusable, it should be usable.”— Ralph Johnson  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ## 👋 Hi there, I'm Amine Berbagui     
