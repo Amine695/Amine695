@@ -178,16 +178,36 @@ Sunday                   38 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   44 mins             ████████████░░░░░░░░░░░░░   47.07 % 
+YAML                     33 mins             █████████░░░░░░░░░░░░░░░░   34.87 % 
+Other                    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 28 mins (30.23%)
+
+✍️ 0 lines written by AI, 336 lines written by hand (0.0% AI-written)
+
+🔤 91,866 Input Tokens, 965 Output Tokens
+
+💵 $0.46 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 5 AI Prompts
+
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 165 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
@@ -203,7 +223,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 08:45:00 UTC
+ Last Updated on 08/09/2026 08:26:13 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
