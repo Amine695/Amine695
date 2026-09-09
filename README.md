@@ -131,9 +131,9 @@
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-996%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-997%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -178,20 +178,20 @@ Sunday                   38 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Python                   44 mins             ████████████░░░░░░░░░░░░░   47.07 % 
-YAML                     33 mins             █████████░░░░░░░░░░░░░░░░   34.87 % 
-Other                    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Python                   1 hr 14 mins        ███████████████░░░░░░░░░░   58.59 % 
+YAML                     33 mins             ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 💻 Operating System: 
-Linux                    1 hr 35 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 mins (30.23%)
+⏱ AI Coding Time: 28 mins (22.72%)
 
 ✍️ 0 lines written by AI, 336 lines written by hand (0.0% AI-written)
 
@@ -223,7 +223,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 08:26:13 UTC
+ Last Updated on 09/09/2026 08:28:39 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
