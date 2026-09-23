@@ -141,7 +141,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 413.9 kB Used in GitHub's Storage 
+> 📦 414.0 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -178,38 +178,38 @@ Sunday                   38 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Python                   2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   30.20 % 
-Markdown                 1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   27.98 % 
-TypeScript               42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-YAML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-JSON                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Python                   2 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   34.71 % 
+Markdown                 1 hr 41 mins        ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+TypeScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Docker                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 
 💻 Operating System: 
-Linux                    7 hrs 3 mins        █████████████████████████   100.00 % 
+Linux                    6 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 52 mins (69.16%)
+⏱ AI Coding Time: 3 hrs 24 mins (53.02%)
 
-✍️ 3,821 lines written by AI, 53 lines written by hand (98.63% AI-written)
+✍️ 3,381 lines written by AI, 208 lines written by hand (94.2% AI-written)
 
-🔤 1,492,527 Input Tokens, 324,229 Output Tokens
+🔤 1,460,390 Input Tokens, 311,375 Output Tokens
 
-💵 $19.56 Estimated AI Cost This Week
+💵 $18.62 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 85 AI Prompts
+🧠 3 AI Sessions, 48 AI Prompts
 
-Sonnet                   3,180 lines         ████████████████████░░░░░   81.39 % 
-Haiku                    727 lines           █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+Sonnet                   2,740 lines         ████████████████████░░░░░   79.03 % 
+Haiku                    727 lines           █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.63% of written lines came from AI
-📚 Verbose Prompter — average 8,407 characters per prompt
-🔁 Iterative Prompter — average 28 prompts per session
-🚀 High AI Trust — 1.56% of changed lines were hand-edited
+🤖 AI-Driven — 94.2% of written lines came from AI
+📚 Verbose Prompter — average 5,499 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 7.57% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
@@ -225,7 +225,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 08:54:22 UTC
+ Last Updated on 23/09/2026 08:56:11 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
