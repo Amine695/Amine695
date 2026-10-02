@@ -131,9 +131,9 @@
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C014%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C017%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -178,23 +178,23 @@ Sunday                   38 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Python                   2 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   30.25 % 
-TypeScript               1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-YAML                     1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Bash                     1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Other                    55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Python                   2 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.70 % 
+YAML                     1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Bash                     1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+TypeScript               1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Other                    55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
 
 💻 Operating System: 
-Linux                    7 hrs 48 mins       ████████████████████████░   96.43 % 
-Mac                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Linux                    8 hrs 16 mins       ███████████████████████░░   92.97 % 
+Mac                      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 8 mins (14.13%)
+⏱ AI Coding Time: 1 hr 8 mins (12.87%)
 
-✍️ 352 lines written by AI, 2,618 lines written by hand (11.85% AI-written)
+✍️ 352 lines written by AI, 2,619 lines written by hand (11.85% AI-written)
 
 🔤 415,065 Input Tokens, 76,508 Output Tokens
 
@@ -225,7 +225,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 10:34:25 UTC
+ Last Updated on 02/10/2026 10:09:20 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
