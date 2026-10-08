@@ -131,9 +131,9 @@
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C020%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C023%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-44%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -178,38 +178,37 @@ Sunday                   38 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Python                   2 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   37.81 % 
-YAML                     1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-TypeScript               55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Other                    45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Python                   1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   27.79 % 
+TypeScript               1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+Markdown                 56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Other                    55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+YAML                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
 
 💻 Operating System: 
-Linux                    5 hrs 33 mins       █████████████████████░░░░   84.91 % 
-Mac                      59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Linux                    5 hrs 47 mins       ██████████████████████░░░   89.01 % 
+Mac                      42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 29 mins (22.79%)
+⏱ AI Coding Time: 1 hr 38 mins (25.31%)
 
-✍️ 1,840 lines written by AI, 1,088 lines written by hand (62.84% AI-written)
+✍️ 2,061 lines written by AI, 336 lines written by hand (85.98% AI-written)
 
-🔤 462,348 Input Tokens, 103,445 Output Tokens
+🔤 354,199 Input Tokens, 98,740 Output Tokens
 
-💵 $6.38 Estimated AI Cost This Week
+💵 $6.71 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 21 AI Prompts
+🧠 4 AI Sessions, 24 AI Prompts
 
-Sonnet                   1,844 lines         █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   2,061 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 62.84% of written lines came from AI
-📚 Verbose Prompter — average 2,389 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 39.68% of changed lines were hand-edited
+🤖 AI-Driven — 85.98% of written lines came from AI
+📚 Verbose Prompter — average 3,704 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 14.66% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
@@ -225,7 +224,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 10:42:04 UTC
+ Last Updated on 08/10/2026 11:02:22 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
