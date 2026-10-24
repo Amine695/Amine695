@@ -131,7 +131,7 @@
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C039%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C039%20hrs%2043%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20hrs%2044%20mins-blue?style=flat)
 
@@ -178,23 +178,23 @@ Sunday                   38 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               2 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   30.36 % 
-YAML                     2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-Bash                     1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Other                    1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Python                   1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+TypeScript               2 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.82 % 
+YAML                     2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+Bash                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Other                    1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Python                   1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
 
 💻 Operating System: 
-Linux                    9 hrs 17 mins       █████████████████████████   98.24 % 
-Mac                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Linux                    9 hrs 20 mins       █████████████████████████   98.25 % 
+Mac                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 43 mins (39.4%)
+⏱ AI Coding Time: 3 hrs 43 mins (39.24%)
 
-✍️ 485 lines written by AI, 560 lines written by hand (46.41% AI-written)
+✍️ 485 lines written by AI, 493 lines written by hand (49.59% AI-written)
 
 🔤 1,253,276 Input Tokens, 170,484 Output Tokens
 
@@ -206,10 +206,10 @@ Sonnet                   578 lines           ███████████�
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 46.41% of written lines came from AI
+⚖️ Balanced with AI — 49.59% of written lines came from AI
 📄 Detailed Prompter — average 1,385 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 53.35% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 50.68% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
@@ -225,7 +225,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 08:56:32 UTC
+ Last Updated on 24/10/2026 08:30:00 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
