@@ -131,7 +131,7 @@
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C043%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C044%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%2011%20mins-blue?style=flat)
 
@@ -141,7 +141,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 414.0 kB Used in GitHub's Storage 
+> 📦 414.1 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -178,21 +178,21 @@ Sunday                   38 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               3 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   35.36 % 
-Python                   1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Bash                     1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-YAML                     1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Markdown                 1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+TypeScript               3 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   32.87 % 
+Markdown                 2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Python                   1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Bash                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+YAML                     1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
 
 💻 Operating System: 
-Linux                    10 hrs 22 mins      █████████████████████████   98.42 % 
-Mac                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Linux                    11 hrs 10 mins      █████████████████████████   98.54 % 
+Mac                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 23 mins (51.08%)
+⏱ AI Coding Time: 5 hrs 23 mins (47.48%)
 
 ✍️ 1,023 lines written by AI, 420 lines written by hand (70.89% AI-written)
 
@@ -225,7 +225,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 09:26:52 UTC
+ Last Updated on 28/10/2026 10:09:05 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
