@@ -178,38 +178,38 @@ Sunday                   38 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               3 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   32.87 % 
-Markdown                 2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-Python                   1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Bash                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-YAML                     1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+TypeScript               3 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   36.68 % 
+Markdown                 1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Bash                     1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Python                   1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+YAML                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
 
 💻 Operating System: 
-Linux                    11 hrs 10 mins      █████████████████████████   98.54 % 
-Mac                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Linux                    9 hrs 2 mins        █████████████████████████   99.65 % 
+Mac                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 23 mins (47.48%)
+⏱ AI Coding Time: 4 hrs 24 mins (48.63%)
 
-✍️ 1,023 lines written by AI, 420 lines written by hand (70.89% AI-written)
+✍️ 960 lines written by AI, 363 lines written by hand (72.56% AI-written)
 
-🔤 1,589,456 Input Tokens, 242,668 Output Tokens
+🔤 1,222,377 Input Tokens, 219,637 Output Tokens
 
-💵 $23.02 Estimated AI Cost This Week
+💵 $20.76 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 75 AI Prompts
+🧠 3 AI Sessions, 59 AI Prompts
 
-Sonnet                   1,094 lines         █████████████████████████   100.00 % 
+Sonnet                   1,031 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 70.89% of written lines came from AI
-📚 Verbose Prompter — average 1,846 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 32.64% of changed lines were hand-edited
+🤖 AI-Driven — 72.56% of written lines came from AI
+📚 Verbose Prompter — average 2,019 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🚀 High AI Trust — 30.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
@@ -225,7 +225,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 10:09:05 UTC
+ Last Updated on 29/10/2026 10:33:57 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
