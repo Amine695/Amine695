@@ -135,7 +135,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2057%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.01%20million%20lines%20of%20code-blue?style=flat)
 
@@ -178,36 +178,36 @@ Sunday                   38 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               5 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   34.91 % 
-Python                   4 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   28.55 % 
-Markdown                 2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-Other                    2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+TypeScript               5 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   37.48 % 
+Python                   3 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+Markdown                 2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Other                    1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 
 💻 Operating System: 
-Linux                    16 hrs 2 mins       █████████████████████████   100.00 % 
+Linux                    13 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 45 mins (48.39%)
+⏱ AI Coding Time: 7 hrs 4 mins (50.82%)
 
-✍️ 2,808 lines written by AI, 33,746 lines written by hand (7.68% AI-written)
+✍️ 1,800 lines written by AI, 33,675 lines written by hand (5.07% AI-written)
 
-🔤 2,998,809 Input Tokens, 634,004 Output Tokens
+🔤 2,759,001 Input Tokens, 573,295 Output Tokens
 
-💵 $51.64 Estimated AI Cost This Week
+💵 $46.01 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 102 AI Prompts
+🧠 4 AI Sessions, 91 AI Prompts
 
-Sonnet                   3,961 lines         █████████████████████████   100.00 % 
+Sonnet                   2,934 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 7.68% of written lines came from AI
-📚 Verbose Prompter — average 3,241 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🔍 Hands-On Reviewer — 99.62% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 5.07% of written lines came from AI
+📚 Verbose Prompter — average 3,158 characters per prompt
+🔁 Iterative Prompter — average 23 prompts per session
+🔍 Hands-On Reviewer — 92.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
@@ -223,7 +223,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2026 11:43:32 UTC
+ Last Updated on 06/11/2026 11:41:53 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
