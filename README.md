@@ -131,7 +131,7 @@
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C058%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C058%20hrs%2055%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2057%20mins-blue?style=flat)
 
@@ -178,22 +178,22 @@ Sunday                   38 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               4 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   39.51 % 
-Python                   3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-Markdown                 1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Other                    1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Bash                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+TypeScript               5 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   40.97 % 
+Python                   3 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+Markdown                 1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Other                    1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 💻 Operating System: 
-Linux                    12 hrs 29 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 37 mins (53.05%)
+⏱ AI Coding Time: 6 hrs 37 mins (51.55%)
 
-✍️ 1,698 lines written by AI, 33,528 lines written by hand (4.82% AI-written)
+✍️ 1,698 lines written by AI, 33,529 lines written by hand (4.82% AI-written)
 
 🔤 2,533,888 Input Tokens, 548,307 Output Tokens
 
@@ -207,7 +207,7 @@ Sonnet                   2,832 lines         ███████████�
 🧑‍💻 Mostly Hands-On — 4.82% of written lines came from AI
 📚 Verbose Prompter — average 3,292 characters per prompt
 🔁 Iterative Prompter — average 27 prompts per session
-🔍 Hands-On Reviewer — 92.34% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 92.35% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
@@ -223,7 +223,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2026 10:53:49 UTC
+ Last Updated on 09/11/2026 12:19:20 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
