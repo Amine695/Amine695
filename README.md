@@ -178,22 +178,22 @@ Sunday                   38 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Python                   2 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   34.52 % 
-TypeScript               2 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   31.77 % 
-Other                    1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
-Markdown                 55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Python                   2 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   35.96 % 
+TypeScript               2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.60 % 
+Other                    1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
+Markdown                 55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Linux                    8 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 3 mins (48.42%)
+⏱ AI Coding Time: 4 hrs 3 mins (50.95%)
 
-✍️ 1,688 lines written by AI, 1,629 lines written by hand (50.89% AI-written)
+✍️ 1,688 lines written by AI, 1,628 lines written by hand (50.9% AI-written)
 
 🔤 1,292,712 Input Tokens, 319,876 Output Tokens
 
@@ -205,10 +205,10 @@ Sonnet                   1,716 lines         ███████████�
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 50.89% of written lines came from AI
+⚖️ Balanced with AI — 50.9% of written lines came from AI
 📚 Verbose Prompter — average 3,416 characters per prompt
 🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 49.5% of changed lines were hand-edited
+🚀 High AI Trust — 49.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
@@ -224,7 +224,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2026 11:39:27 UTC
+ Last Updated on 16/11/2026 12:15:49 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
